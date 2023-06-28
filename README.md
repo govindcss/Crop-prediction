@@ -1,3 +1,4 @@
+<img width="1459" alt="Screenshot 2023-05-15 at 10 48 14 PM" src="https://github.com/govindcss/Crop-prediction/assets/117146516/399d20c7-f7c7-4991-9826-33c496ed5d9e">
 # Crop-prediction
 Crop prediction app using streamlit
 
